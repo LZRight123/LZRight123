@@ -1,36 +1,46 @@
+![AI-native tools, scripts, agents, and symbolic systems](assets/profile-banner.png)
+
 > Programs are meant to be read by humans and only incidentally for computers to execute.
 > — Donald Knuth
 
-I write software for storytellers, security folks, and people who still read 易经.
-代码写给人看，顺便让机器运行。
+I build AI-native tools for storytellers, indie builders, and people who still read 易经.
+
+代码写给人看，顺便让机器运行；产品写给人用，顺便让模型参与。
+
+[Laper](https://laper.ai) · [yuan](https://github.com/LZRight123/yuan) · [Email](mailto:happysmallliang@gmail.com)
 
 ---
 
-### Now · [Laper](https://laper.ai)
+### Now
 
-做 AI 剧本创作工具，让创作者借大模型把脑子里的故事写出来。
-关心的是怎么让模型理解一个角色的动机，而不是怎么让它写出一段更顺的对白。
+| Track | What I am building | Why it matters |
+| --- | --- | --- |
+| [Laper](https://laper.ai) | From first draft to final cut.<br>Humanity's last screenwriting tool — dedicated to the professionals who still believe this art is beyond AI's reach. | Professional screenwriting, not generic AI copywriting. |
+| GEB fractal docs | A codebase discipline where `README`, `AGENTS.md`, and file contracts stay aligned with implementation. | Agents need maps they can trust, or they create entropy. |
+| [yuan](https://github.com/LZRight123/yuan) | One input surface for BaZi, Cheng Gu, numerology, Western astrology, Vedic astrology, and Zi Wei across Codex / Claude Code / Agent Skills. | Old symbolic systems are structured data with human meaning. |
 
-### Side · [yuan](https://github.com/LZRight123/yuan)
+### Selected work
 
-一份配置，六种命书——让 Claude Code / Codex / Agent Skills 同时读懂八字、称骨、数字命理、西占、印度占星、紫微斗数。
-做给"AI 时代还读易经"的那群人。
+- [yuan](https://github.com/LZRight123/yuan): unified destiny-reading skill for AI coding agents, built as a production-grade skill runtime example.
+- [KPAppMananger](https://github.com/LZRight123/KPAppMananger): silent install / uninstall / app launch / process communication / background protection on iOS.
+- [GuardApp](https://github.com/LZRight123/GuardApp): iOS security protection framework.
+- [ccmp4](https://github.com/LZRight123/ccmp4): AI workflow for turning English videos into Chinese.
+- [Desktop](https://github.com/LZRight123/Desktop), [mergecycript](https://github.com/LZRight123/mergecycript), [fridatools](https://github.com/LZRight123/fridatools): reverse engineering stubs and Cycript / Frida tooling.
 
-### Earlier · iOS Security & Reverse Engineering
+### Writing and teaching
 
-更早些年在啃 iOS 反调试、运行时 hook、进程通信、应用沙箱穿透：
+I am turning two years of AI coding practice into reusable playbooks:
 
-- [GuardApp](https://github.com/LZRight123/GuardApp) — iOS 安全防护框架
-- [KPAppMananger](https://github.com/LZRight123/KPAppMananger) — 静默安装、卸载、打开 App、进程通信、后台保护
-- [Desktop](https://github.com/LZRight123/Desktop) — 桌面端逆向存根
-- [mergecycript](https://github.com/LZRight123/mergecycript) · [fridatools](https://github.com/LZRight123/fridatools) — 集成 cycript / frida 的工具链
+- From Cursor to Claude Code: how non-traditional builders ship real products with agents.
+- GEB: keep code and documentation isomorphic, so agents inherit the system instead of guessing.
+- Product logs from Laper: what changes when models become collaborators for writers.
 
-### Also · 在玩的小东西
+### Principles
 
-- [ccmp4](https://github.com/LZRight123/ccmp4) — AI 英文视频转中文
-- 一个用 Obsidian + Claude Code 协作的私人知识仓
-- 一套写给团队、不靠规则靠范式的工程心法
+- Readable code is a product feature.
+- A small convention beats a large rulebook.
+- If the map and terrain diverge, the system is already broken.
 
 ---
 
-📬 [happysmallliang@gmail.com](mailto:happysmallliang@gmail.com) · 🌐 [laper.ai](https://laper.ai)
+[happysmallliang@gmail.com](mailto:happysmallliang@gmail.com) · [laper.ai](https://laper.ai)
